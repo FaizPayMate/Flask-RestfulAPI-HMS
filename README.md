@@ -47,7 +47,7 @@ The Python version used is Python 3 or higher.
 ### File Structure
 
 ```
-LOCH.ONE
+Flask-RestfulAPI-HMS
 ├── api
 │   ├── models.py
 │   ├── config.py
