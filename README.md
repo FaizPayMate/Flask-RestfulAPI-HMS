@@ -1,4 +1,4 @@
-### Loch.one - Hospital Management System Backend Task
+### Hospital Management System Restful API's using Flask
 
 This project is a Hospital Management System API built using Flask. It provides endpoints for managing patients, doctors, departments, and searching functionality.
 
